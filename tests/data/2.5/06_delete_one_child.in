@@ -1,0 +1,12 @@
+insert 10
+insert 5
+insert 1
+delete 5
+exists 1
+next 1
+prev 10
+insert 20
+insert 30
+delete 20
+next 10
+prev 30

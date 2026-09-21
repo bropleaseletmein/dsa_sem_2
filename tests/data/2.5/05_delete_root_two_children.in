@@ -1,0 +1,11 @@
+insert 10
+insert 5
+insert 15
+insert 12
+insert 20
+delete 10
+exists 10
+next 10
+prev 10
+next 11
+prev 13

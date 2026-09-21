@@ -1,0 +1,8 @@
+insert 5
+insert 5
+insert 5
+exists 5
+delete 5
+exists 5
+delete 5
+exists 5
